@@ -7,7 +7,7 @@
       "description": "These Curly Fries are seasoned, alright. Seasoned veterans. They’ve been around the block—gathering deliciousness and flavor from all over. So, they know how to make your mouth water. And your tastebuds do their secret handshake.",
       "img": "food-1.png",
       "orderImg": "chicken.png",
-      "price": 1.3,
+      "price": 5.3,
       "quantity": 1
     },
     {
@@ -17,7 +17,7 @@
       "description": "These Curly Fries are seasoned, alright. Seasoned veterans. They’ve been around the block—gathering deliciousness and flavor from all over. So, they know how to make your mouth water. And your tastebuds do their secret handshake.",
       "img": "food-1.png",
       "orderImg": "chicken.png",
-      "price": 1.3,
+      "price": 6.3,
       "quantity": 1
     },
     {
@@ -27,7 +27,7 @@
       "description": "These Curly Fries are seasoned, alright. Seasoned veterans. They’ve been around the block—gathering deliciousness and flavor from all over. So, they know how to make your mouth water. And your tastebuds do their secret handshake.",
       "img": "food-1.png",
       "orderImg": "chicken.png",
-      "price": 1.3,
+      "price": 9,
       "quantity": 1
     },
     {
@@ -37,7 +37,7 @@
       "description": "These Curly Fries are seasoned, alright. Seasoned veterans. They’ve been around the block—gathering deliciousness and flavor from all over. So, they know how to make your mouth water. And your tastebuds do their secret handshake.",
       "img": "food-1.png",
       "orderImg": "chicken.png",
-      "price": 1.3,
+      "price": 10,
       "quantity": 1
     },
     {
@@ -47,7 +47,7 @@
       "description": "These Curly Fries are seasoned, alright. Seasoned veterans. They’ve been around the block—gathering deliciousness and flavor from all over. So, they know how to make your mouth water. And your tastebuds do their secret handshake.",
       "img": "food-1.png",
       "orderImg": "chicken.png",
-      "price": 1.3,
+      "price": 3.6,
       "quantity": 1
     },
     {
@@ -57,7 +57,7 @@
       "description": "These Curly Fries are seasoned, alright. Seasoned veterans. They’ve been around the block—gathering deliciousness and flavor from all over. So, they know how to make your mouth water. And your tastebuds do their secret handshake.",
       "img": "food-1.png",
       "orderImg": "chicken.png",
-      "price": 1.3,
+      "price": 5.9,
       "quantity": 1
     }
   ],
@@ -66,19 +66,19 @@
       "id": 1,
       "name": "Spicy Chicken Wings 1",
       "img": "food-1.png",
-      "price": 1.3
+      "price": 6.5
     },
     {
       "id": 2,
       "name": "Spicy Chicken Wings 2",
       "img": "food-2.png",
-      "price": 1.3
+      "price": 4.0
     },
     {
       "id": 3,
       "name": "Spicy Chicken Wings 3",
       "img": "food-3.png",
-      "price": 1.3
+      "price": 2.3
     },
     {
       "id": 4,
